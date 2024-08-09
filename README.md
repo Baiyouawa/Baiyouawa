@@ -1,4 +1,11 @@
 # 🥳 Hello guys!🥰This is a short introduction~
+<img src="images/Avatar.jpg" alt="Avatar" width="800"/>
+
+### For now🥰 , I'm just an undergraduate student learing in HEU.
+### I'm just learing transformers now~😐
+### You can find me here : 1094638877@qq.com🤪
+
+
 
 
 <!--
