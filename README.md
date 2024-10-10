@@ -49,10 +49,12 @@
     <!-- Right-hand column (centered content) -->
     <td align="center">
       <!-- Add any content you want centered here, e.g., images, charts, etc. -->
-      <img src="" alt="Centered image" />
+      <img src="https://github.com/user-attachments/assets/621c866e-024f-435c-b1c3-a388ce5438ed" alt="Centered image" height="200px"width = "300px" />
+      <img src="https://github.com/user-attachments/assets/9d2b00c3-2eb5-46f5-a96b-eca8bc252e77" alt="Centered image" height="200px"width = "300px" />
     </td>
   </tr>
 </table>
 </div>
+
     
 
