@@ -1,3 +1,4 @@
+
 <div align = "center">
   <table>
     <!-- Header --> 
@@ -20,10 +21,38 @@
       <td align="center" width="210px">
         <img src="https://github.com/user-attachments/assets/41ed912d-6264-4e7f-854f-12144e13576b" height="150px" />
       </td>
-    </tr>
-
-    
-  </table>
+    <tr>
+      <table>
+  <!-- First row -->
+  <tr>
+    <td colspan="2" align="left"><b>Brief Introduction：</b></td>
+  </tr>
+  <!-- Second row -->
+  <tr>
+    <td colspan="2" align="left">
+      <b>Now Learning:</b><br>
+      <img src="https://img.shields.io/badge/Use-Python-0076ab?style=flat&logo=Python&logoColor=ffffff" alt="Use Python" />
+      <img src="https://img.shields.io/badge/Learn-C++-blueviolet?style=flat&logo=Visual%20Studio%20Code&logoColor=ffffff" alt="Learn C++" /><br>
+      <li>🍀<a target="_blank">Deep Learning (Pytorch)</a></li>
+      <li>🎓<a target="_blank">Prepar for Nationwide-Master's-Admissions-Examination</a></li>
+      <b>Experience:</b><br>
+      <li>📘<a target="_blank">School's laboratories (2024 - now)</a></li>
+      <b>Main project:</b><br>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=Baiyouawa" alt="Baiyouawa’s GitHub stats" />
+      </a>
+      <br>
+      <li>🎉<a target="_blank" href="https://github.com/Baiyouawa/Nationwide-Master-s-Program-Unified-Admissions-Examination">Pre for Master's Exam</a>：考研初试复试笔记</li>
+      <li>📑<a target="_blank" href="https://github.com/Baiyouawa/Transformer-Reading-Reports">Reading report</a>: 论文阅读报告</li>
+      <br>Still trying my best to learn😎😭
+    </td>
+    <!-- Right-hand column (centered content) -->
+    <td align="center">
+      <!-- Add any content you want centered here, e.g., images, charts, etc. -->
+      <img src="" alt="Centered image" />
+    </td>
+  </tr>
+</table>
 </div>
     
 
