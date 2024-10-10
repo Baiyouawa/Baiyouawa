@@ -17,4 +17,5 @@
   </table>
 </div>
     
-![](https://raw.githubusercontent.com/Baiyouawa/Baiyouawa/refs/heads/output/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/Baiyouawa/Baiyouawa/output/github-contribution-grid-snake.svg)
+
