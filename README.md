@@ -12,7 +12,7 @@
     <!-- 进度条&访问量&QQ -->
     <tr>
       <td align = "left">
-        <img src="https://raw.githubusercontent.com/Baiyouawa/Baiyouawa/main/assets/github-contribution-grid-snake.svg" alt="GitHub Snake" />
+        <img src="https://raw.githubusercontent.com/Baiyouawa/Baiyouawa/main/assets/github-contribution-grid-snake.svg" alt="GitHub Snake" width = "2000" />
       </td>
       <td align="center" width="240px">
         <img src="https://access-counter.vercel.app/api/counter?name=yourname&theme=006&length=7" width = "400" />
