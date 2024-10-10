@@ -1,4 +1,4 @@
-![embedded_qr_with_background](https://github.com/user-attachments/assets/41ed912d-6264-4e7f-854f-12144e13576b)<div align = "center">
+<div align = "center">
   <table>
     <!-- Header --> 
     <tr>
@@ -14,15 +14,13 @@
       <td align = "left">
         <img src="https://raw.githubusercontent.com/Baiyouawa/Baiyouawa/main/assets/github-contribution-grid-snake.svg" alt="GitHub Snake" />
       </td>
-      <td align="center" width="250px">
+      <td align="center" width="240px">
         <img src="https://access-counter.vercel.app/api/counter?name=yourname&theme=006&length=7" width = "400" />
       </td>
-      <td align="center" width="150px">
-        <img src="" height="120px" />
+      <td align="center" width="210px">
+        <img src="https://github.com/user-attachments/assets/41ed912d-6264-4e7f-854f-12144e13576b" height="150px" />
       </td>
     </tr>
-
-
 
     
   </table>
