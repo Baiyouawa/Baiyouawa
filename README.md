@@ -34,7 +34,7 @@
       <img src="https://img.shields.io/badge/Use-Python-0076ab?style=flat&logo=Python&logoColor=ffffff" alt="Use Python" />
       <img src="https://img.shields.io/badge/Learn-C++-blueviolet?style=flat&logo=Visual%20Studio%20Code&logoColor=ffffff" alt="Learn C++" /><br>
       <li>🍀<a target="_blank">Deep Learning (Pytorch)</a></li>
-      <li>🎓<a target="_blank">Prepar for Nationwide-Master's-Admissions-Examination</a></li>
+      <li>🎓<a target="_blank">Prepare for Nationwide-Master's-Admissions-Examination</a></li>
       <b>Experience:</b><br>
       <li>📘<a target="_blank">School's laboratories (2024 - now)</a></li>
       <b>Main project:</b><br>
