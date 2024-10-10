@@ -12,13 +12,9 @@
     <!-- 进度条&访问量&QQ>
     <tr>
       <td align = "left">
-      ![](https://raw.githubusercontent.com/Baiyouawa/Baiyouawa/refs/heads/output/github-contribution-grid-snake.svg)
+        ![](https://raw.githubusercontent.com/Baiyouawa/Baiyouawa/refs/heads/output/github-contribution-grid-snake.svg))
     </tr>
-    
-    
-
-
-
-    
   </table>
 </div>
+    
+![](https://raw.githubusercontent.com/Baiyouawa/Baiyouawa/refs/heads/output/github-contribution-grid-snake.svg))
