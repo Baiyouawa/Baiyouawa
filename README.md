@@ -36,7 +36,7 @@
       <li>🍀<a target="_blank">ST-prediction and Multimodal (Pytorch)</a></li>
       <li>🎓<a target="_blank">Prepare for Nationwide-Master's-Admissions-Examination</a></li>
       <b>Experience:</b><br>
-      <li>📘<a target="_blank">School's laboratories (2024 - now) in HEU</a></li>
+      <li>📘<a target="_blank">School's laboratories in HEU (2024 - now) </a></li>
       <b>Main project:</b><br>
       <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api?username=Baiyouawa" alt="Baiyouawa’s GitHub stats" />
